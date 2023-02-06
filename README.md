@@ -11,4 +11,4 @@ A Node.js project that uses Puppeteer and Natural to analyze sentiment about 202
 Contributions are always welcome! Please submit a pull request or issue for any improvements or bug fixes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
